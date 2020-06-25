@@ -1,0 +1,6 @@
+<map id="modules/adn4604.h" name="modules/adn4604.h">
+<area shape="rect" id="node2" href="$adn4604_8c.html" title="ADN4604 module interface implementations. " alt="" coords="5,87,155,114"/>
+<area shape="rect" id="node3" href="$afc-bpm_2v3__0_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_0/payload.c" alt="" coords="179,80,325,121"/>
+<area shape="rect" id="node4" href="$afc-bpm_2v3__1_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_1/payload.c" alt="" coords="349,80,496,121"/>
+<area shape="rect" id="node5" href="$afc-timing_2payload_8c.html" title="port/board/afc&#45;timing\l/payload.c" alt="" coords="520,80,680,121"/>
+</map>

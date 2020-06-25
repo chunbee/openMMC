@@ -1,0 +1,4 @@
+<map id="amc_point_to_point_record" name="amc_point_to_point_record">
+<area shape="rect" id="node2" href="$structfru__multirecord__area__header.html" title="fru_multirecord_area\l_header" alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node3" href="$structamc__p2p__descriptor__t.html" title="amc_p2p_descriptor_t" alt="" coords="189,13,354,39"/>
+</map>

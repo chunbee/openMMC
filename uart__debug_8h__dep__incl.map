@@ -1,0 +1,15 @@
+<map id="modules/uart_debug.h" name="modules/uart_debug.h">
+<area shape="rect" id="node2" href="$amc__fru_8c.html" title="modules/amc_fru.c" alt="" coords="5,87,152,114"/>
+<area shape="rect" id="node3" href="$fru_8c.html" title="modules/fru.c" alt="" coords="177,87,287,114"/>
+<area shape="rect" id="node4" href="$fru__editor_8c.html" title="modules/fru_editor.c" alt="" coords="312,87,467,114"/>
+<area shape="rect" id="node5" href="$ipmi_8c.html" title="IPMI module implementation. " alt="" coords="491,87,613,114"/>
+<area shape="rect" id="node6" href="$main_8c.html" title="modules/main.c" alt="" coords="638,87,765,114"/>
+<area shape="rect" id="node7" href="$printf-stdarg_8c.html" title="modules/printf&#45;stdarg.c" alt="" coords="789,87,963,114"/>
+<area shape="rect" id="node8" href="$rtm_8c.html" title="modules/rtm.c" alt="" coords="987,87,1103,114"/>
+<area shape="rect" id="node9" href="$hotswap_8c.html" title="Hotswap sensors implementation. " alt="" coords="1128,87,1331,114"/>
+<area shape="rect" id="node10" href="$lm75_8c.html" title="Interface functions for LM75 I2C Temperature Sensor. " alt="" coords="1355,87,1535,114"/>
+<area shape="rect" id="node11" href="$max6642_8c.html" title="MAX6642 I2C Temperature Sensor Interface implementation. " alt="" coords="1560,87,1768,114"/>
+<area shape="rect" id="node12" href="$uart__debug_8c.html" title="UART interface implementation. " alt="" coords="1793,87,1959,114"/>
+<area shape="rect" id="node13" href="$watchdog_8c.html" title="Reset the uC if it fails to reload the watchdog timer. " alt="" coords="1983,87,2139,114"/>
+<area shape="rect" id="node14" href="$rtm__user_8c.html" title="port/board/rtm&#45;8sfp\l/rtm_user.c" alt="" coords="2164,80,2313,121"/>
+</map>

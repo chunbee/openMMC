@@ -1,0 +1,5 @@
+<map id="modules/sensors/hotswap.h" name="modules/sensors/hotswap.h">
+<area shape="rect" id="node2" href="$sdr_8h.html" title="sdr.h" alt="" coords="222,80,275,107"/>
+<area shape="rect" id="node3" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="215,155,282,181"/>
+<area shape="rect" id="node8" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="417,229,528,256"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AFC Timing Board Port" name="AFC Timing Board Port">
+<area shape="rect" id="node2" href="$group__AFC__TIMING__IPMI__OEM.html" title="AFC&#45;Timing IPMI OEM\l Commands" alt="" coords="376,5,536,47"/>
+<area shape="rect" id="node4" href="$group__AFC__TIMING__PIN__MAPPING.html" title="AFC Timing Pin Mapping" alt="" coords="367,71,545,98"/>
+<area shape="rect" id="node3" href="$group__BOARD__PORTS.html" title="Board Ports" alt="" coords="5,42,103,69"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="port/ucontroller/nxp/lpc17xx/lpc17_uart.c" name="port/ucontroller/nxp/lpc17xx/lpc17_uart.c">
+<area shape="rect" id="node2" href="$port_8h.html" title="Port layer (includes all portable functions headers) " alt="" coords="897,95,957,121"/>
+<area shape="rect" id="node4" href="$lpc17__gpio_8h.html" title="lpc17_gpio.h" alt="" coords="83,169,187,196"/>
+<area shape="rect" id="node6" href="$lpc17__i2c_8h.html" title="I2C driver for LPC17xx. " alt="" coords="321,169,416,196"/>
+<area shape="rect" id="node7" href="$lpc17__ssp_8h.html" title="lpc17_ssp.h" alt="" coords="441,169,539,196"/>
+<area shape="rect" id="node11" href="$lpc17__spi_8h.html" title="Legacy SPI driver definitions for LPC17xx. " alt="" coords="565,169,660,196"/>
+<area shape="rect" id="node13" href="$lpc17__watchdog_8h.html" title="Definitions of Watchdog driver implementation for LPC17xx. " alt="" coords="685,169,823,196"/>
+<area shape="rect" id="node15" href="$lpc17__interruptions_8h.html" title="Interruptions control. " alt="" coords="848,169,1007,196"/>
+<area shape="rect" id="node17" href="$lpc17__hpm_8h.html" title="Firmware update functions (HPM.1) " alt="" coords="1031,169,1136,196"/>
+<area shape="rect" id="node18" href="$lpc17__power_8h.html" title="Definitions of power mode selection for LPC17xx. " alt="" coords="1161,169,1275,196"/>
+<area shape="rect" id="node20" href="$lpc17__pincfg_8h.html" title="Pin Config functions redirection for LPC17xx. " alt="" coords="1300,169,1416,196"/>
+<area shape="rect" id="node22" href="$lpc17__uart_8h.html" title="LPC17xx UART interface definitions. " alt="" coords="1583,169,1685,196"/>
+</map>

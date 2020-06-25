@@ -1,0 +1,7 @@
+<map id="modules/sensors/sensors.h" name="modules/sensors/sensors.h">
+<area shape="rect" id="node2" href="$sdr_8c.html" title="modules/sdr.c" alt="" coords="5,87,117,114"/>
+<area shape="rect" id="node3" href="$afc-bpm_2v3__0_2sdr__list_8c.html" title="port/board/afc&#45;bpm\l/v3_0/sdr_list.c" alt="" coords="141,80,288,121"/>
+<area shape="rect" id="node4" href="$afc-bpm_2v3__1_2sdr__list_8c.html" title="port/board/afc&#45;bpm\l/v3_1/sdr_list.c" alt="" coords="312,80,459,121"/>
+<area shape="rect" id="node5" href="$afc-timing_2sdr__list_8c.html" title="port/board/afc&#45;timing\l/sdr_list.c" alt="" coords="483,80,643,121"/>
+<area shape="rect" id="node6" href="$rtm-8sfp_2sdr__list_8c.html" title="port/board/rtm&#45;8sfp\l/sdr_list.c" alt="" coords="667,80,816,121"/>
+</map>

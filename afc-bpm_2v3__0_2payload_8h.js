@@ -1,0 +1,28 @@
+var afc_bpm_2v3__0_2payload_8h =
+[
+    [ "PAYLOAD_BASE_DELAY", "group__AFC__V3__1__PAYLOAD.html#ga5b3e3c770e3c2e2636328a8ddb793f0e", null ],
+    [ "PAYLOAD_MESSAGE_COLD_RST", "group__AFC__V3__1__PAYLOAD__MSG.html#ga27c53ecb0b735674b42382988a26afeb", null ],
+    [ "PAYLOAD_MESSAGE_DCDC_PGOOD", "group__AFC__V3__1__PAYLOAD__MSG.html#ga102e04c69a6fcac5366cd3d7f4469cc1", null ],
+    [ "PAYLOAD_MESSAGE_DCDC_PGOODn", "group__AFC__V3__1__PAYLOAD__MSG.html#ga4059b55c40c35c63e3acefbecda0d9a4", null ],
+    [ "PAYLOAD_MESSAGE_PPGOOD", "group__AFC__V3__1__PAYLOAD__MSG.html#ga100b6b83b64a2a27119e2fc786246ac2", null ],
+    [ "PAYLOAD_MESSAGE_PPGOODn", "group__AFC__V3__1__PAYLOAD__MSG.html#ga5723864b88e239fcbbb26305a9da59b9", null ],
+    [ "PAYLOAD_MESSAGE_QUIESCE", "group__AFC__V3__1__PAYLOAD__MSG.html#ga27d0fa323995329dc46a2e14a659a68e", null ],
+    [ "PAYLOAD_MESSAGE_REBOOT", "group__AFC__V3__1__PAYLOAD__MSG.html#ga1d85d35600bf01ed2963c52dc28d74ba", null ],
+    [ "PAYLOAD_MESSAGE_WARM_RST", "group__AFC__V3__1__PAYLOAD__MSG.html#ga63df0d63641a4671d2cb4ed489b5f71c", null ],
+    [ "PAYLOAD_NO_POWER", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57a3b16bf26c15adab49241de726f230f4c", null ],
+    [ "PAYLOAD_SWITCHING_ON", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57aa493268c57d80c7466ef4f823a990feb", null ],
+    [ "PAYLOAD_POWER_GOOD_WAIT", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57a7ec1d950558198ae8f070907decacc9c", null ],
+    [ "PAYLOAD_STATE_FPGA_SETUP", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57aa78b10d805a06fa4635f40e342b52ebf", null ],
+    [ "PAYLOAD_FPGA_BOOTING", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57a9763b144a5b193ceddcbb83889392cc7", null ],
+    [ "PAYLOAD_FPGA_WORKING", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57aff3f6b0a01c97b751c8c0aa8b5a45f2a", null ],
+    [ "PAYLOAD_SWITCHING_OFF", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57a6da621e92d86da7b29f128ba232dc3b2", null ],
+    [ "PAYLOAD_QUIESCED", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57a25000efcbc3184a01336533d28ca50bf", null ],
+    [ "PAYLOAD_OFF", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57a861d43c7c14d7a74a546a0e02153130a", null ],
+    [ "PAYLOAD_STATE_NO_CHANGE", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57ab0fb522500f38fc5e26b9fdcaf860e72", null ],
+    [ "PAYLOAD_STATE_UNKNOWN", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57a9f5fb9cf8199cc28c000ff12b5ba0b6b", null ],
+    [ "PAYLOAD_POWER_FAIL", "group__AFC__V3__1__PAYLOAD.html#ggab04a0655cd1e3bcac5e8f48c18df1a57aebbaf1cba8e1a7169300efe0e46174a0", null ],
+    [ "payload_init", "group__AFC__V3__1__PAYLOAD.html#ga096f5bc7ba795f3210cecd5540eb5bb6", null ],
+    [ "payload_send_message", "group__AFC__V3__1__PAYLOAD.html#ga446f73c2a4ab9c48f9c78457e26eb214", null ],
+    [ "vTaskPayload", "group__AFC__V3__1__PAYLOAD.html#ga05ecf3aa2992d7aa0735e18ee4f63919", null ],
+    [ "payload_state", "group__AFC__V3__1__PAYLOAD.html#ga8d4ed6c9ed881b0e7adf87e13c224654", null ]
+];

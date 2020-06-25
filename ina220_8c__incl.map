@@ -1,0 +1,22 @@
+<map id="modules/sensors/ina220.c" name="modules/sensors/ina220.c">
+<area shape="rect" id="node4" href="$port_8h.html" title="Port layer (includes all portable functions headers) " alt="" coords="918,155,978,181"/>
+<area shape="rect" id="node25" href="$sdr_8h.html" title="sdr.h" alt="" coords="1931,155,1984,181"/>
+<area shape="rect" id="node30" href="$task__priorities_8h.html" title="task_priorities.h" alt="" coords="1762,80,1889,107"/>
+<area shape="rect" id="node31" href="$i2c_8h.html" title="i2c.h" alt="" coords="2219,80,2272,107"/>
+<area shape="rect" id="node35" href="$ina220_8h.html" title="Definitions for INA220 Current/Voltage/Power Sensor. " alt="" coords="1557,80,1635,107"/>
+<area shape="rect" id="node36" href="$fpga__spi_8h.html" title="fpga_spi.h" alt="" coords="1913,80,2002,107"/>
+<area shape="rect" id="node38" href="$fru_8h.html" title="fru.h" alt="" coords="2297,80,2349,107"/>
+<area shape="rect" id="node6" href="$lpc17__gpio_8h.html" title="lpc17_gpio.h" alt="" coords="1287,229,1391,256"/>
+<area shape="rect" id="node8" href="$lpc17__i2c_8h.html" title="I2C driver for LPC17xx. " alt="" coords="901,229,995,256"/>
+<area shape="rect" id="node9" href="$lpc17__ssp_8h.html" title="lpc17_ssp.h" alt="" coords="1487,229,1585,256"/>
+<area shape="rect" id="node11" href="$lpc17__spi_8h.html" title="Legacy SPI driver definitions for LPC17xx. " alt="" coords="23,229,118,256"/>
+<area shape="rect" id="node13" href="$lpc17__watchdog_8h.html" title="Definitions of Watchdog driver implementation for LPC17xx. " alt="" coords="272,229,411,256"/>
+<area shape="rect" id="node15" href="$lpc17__interruptions_8h.html" title="Interruptions control. " alt="" coords="718,229,877,256"/>
+<area shape="rect" id="node17" href="$lpc17__hpm_8h.html" title="Firmware update functions (HPM.1) " alt="" coords="142,229,247,256"/>
+<area shape="rect" id="node18" href="$lpc17__power_8h.html" title="Definitions of power mode selection for LPC17xx. " alt="" coords="1020,229,1135,256"/>
+<area shape="rect" id="node20" href="$lpc17__pincfg_8h.html" title="Pin Config functions redirection for LPC17xx. " alt="" coords="435,229,551,256"/>
+<area shape="rect" id="node22" href="$lpc17__uart_8h.html" title="LPC17xx UART interface definitions. " alt="" coords="1159,229,1262,256"/>
+<area shape="rect" id="node26" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="2059,229,2125,256"/>
+<area shape="rect" id="node29" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="2039,304,2150,331"/>
+<area shape="rect" id="node37" href="$utils_8h.html" title="General utilities functions. " alt="" coords="1839,155,1902,181"/>
+</map>

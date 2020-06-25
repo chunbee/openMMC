@@ -1,0 +1,6 @@
+<map id="modules/at24mac.h" name="modules/at24mac.h">
+<area shape="rect" id="node2" href="$at24mac_8c.html" title="AT24MACX02 EEPROM module interface implementation. " alt="" coords="5,87,156,114"/>
+<area shape="rect" id="node3" href="$fpga__spi_8c.html" title="modules/fpga_spi.c" alt="" coords="180,87,328,114"/>
+<area shape="rect" id="node4" href="$fru_8c.html" title="modules/fru.c" alt="" coords="352,87,463,114"/>
+<area shape="rect" id="node5" href="$board__fru_8c.html" title="port/board/afc&#45;common\l/board_fru.c" alt="" coords="487,80,661,121"/>
+</map>

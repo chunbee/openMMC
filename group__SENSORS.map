@@ -1,0 +1,7 @@
+<map id="Sensors" name="Sensors">
+<area shape="rect" id="node1" href="$group__HOTSWAP.html" title="Hotswap Sensor" alt="" coords="323,5,449,32"/>
+<area shape="rect" id="node2" href="$group__MAX6642.html" title="MAX6642 &#160;Remote/Local\l Temperature Sensor with\l Overtemperature Alarm" alt="" coords="292,56,480,112"/>
+<area shape="rect" id="node5" href="$group__INA220.html" title="INA220 &#45; High&#45; or Low\l&#45;Side, Bidirectional\l Current and Power Monitor" alt="" coords="287,136,485,192"/>
+<area shape="rect" id="node6" href="$group__LM75.html" title="LM75 &#45; Temperature\l Sensor" alt="" coords="311,217,461,258"/>
+<area shape="rect" id="node4" href="$group__PERIPH__IC.html" title="Peripheral ICs" alt="" coords="5,111,117,137"/>
+</map>

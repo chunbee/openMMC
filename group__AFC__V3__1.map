@@ -1,0 +1,6 @@
+<map id="AFCv3.1 Board Port" name="AFCv3.1 Board Port">
+<area shape="rect" id="node1" href="$group__AFC__V3__1__IPMI__OEM.html" title="AFCv3.1 IPMI OEM Commands" alt="" coords="345,5,563,32"/>
+<area shape="rect" id="node2" href="$group__BOARD__PORTS.html" title="Board Ports" alt="" coords="5,56,103,83"/>
+<area shape="rect" id="node4" href="$group__AFC__V3__1__PAYLOAD.html" title="AFCv3.1 Payload Control" alt="" coords="363,56,545,83"/>
+<area shape="rect" id="node5" href="$group__AFC__V3__1__PIN__MAPPING.html" title="AFCv3.1 Pin Mapping" alt="" coords="375,107,533,133"/>
+</map>

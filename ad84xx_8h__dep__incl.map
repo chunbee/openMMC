@@ -1,0 +1,6 @@
+<map id="modules/ad84xx.h" name="modules/ad84xx.h">
+<area shape="rect" id="node2" href="$ad84xx_8c.html" title="modules/ad84xx.c" alt="" coords="5,87,147,114"/>
+<area shape="rect" id="node3" href="$afc-bpm_2v3__0_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_0/payload.c" alt="" coords="171,80,317,121"/>
+<area shape="rect" id="node4" href="$afc-bpm_2v3__1_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_1/payload.c" alt="" coords="341,80,488,121"/>
+<area shape="rect" id="node5" href="$afc-timing_2payload_8c.html" title="port/board/afc&#45;timing\l/payload.c" alt="" coords="512,80,672,121"/>
+</map>

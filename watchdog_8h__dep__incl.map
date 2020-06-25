@@ -1,0 +1,5 @@
+<map id="modules/watchdog.h" name="modules/watchdog.h">
+<area shape="rect" id="node2" href="$main_8c.html" title="modules/main.c" alt="" coords="5,87,132,114"/>
+<area shape="rect" id="node3" href="$watchdog_8c.html" title="Reset the uC if it fails to reload the watchdog timer. " alt="" coords="156,87,312,114"/>
+<area shape="rect" id="node4" href="$lpc17__hpm_8c.html" title="Firmware update functions (HPM.1) " alt="" coords="337,80,499,121"/>
+</map>

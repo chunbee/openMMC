@@ -1,0 +1,6 @@
+<map id="modules/fru_editor.h" name="modules/fru_editor.h">
+<area shape="rect" id="node4" href="$ipmi_8h.html" title="IPMI module definitions. " alt="" coords="185,80,248,107"/>
+<area shape="rect" id="node5" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="215,229,282,256"/>
+<area shape="rect" id="node10" href="$sdr_8h.html" title="sdr.h" alt="" coords="238,155,291,181"/>
+<area shape="rect" id="node9" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="417,304,528,331"/>
+</map>

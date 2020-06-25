@@ -1,0 +1,16 @@
+<map id="modules/task_priorities.h" name="modules/task_priorities.h">
+<area shape="rect" id="node2" href="$fpga__spi_8c.html" title="modules/fpga_spi.c" alt="" coords="5,87,153,114"/>
+<area shape="rect" id="node3" href="$ipmb_8c.html" title="modules/ipmb.c" alt="" coords="177,87,304,114"/>
+<area shape="rect" id="node4" href="$ipmi_8c.html" title="IPMI module implementation. " alt="" coords="329,87,451,114"/>
+<area shape="rect" id="node5" href="$led_8c.html" title="modules/led.c" alt="" coords="476,87,589,114"/>
+<area shape="rect" id="node6" href="$rtm_8c.html" title="modules/rtm.c" alt="" coords="613,87,729,114"/>
+<area shape="rect" id="node7" href="$hotswap_8c.html" title="Hotswap sensors implementation. " alt="" coords="754,87,957,114"/>
+<area shape="rect" id="node8" href="$ina220_8c.html" title="INA220 interface implementation. " alt="" coords="981,87,1172,114"/>
+<area shape="rect" id="node9" href="$lm75_8c.html" title="Interface functions for LM75 I2C Temperature Sensor. " alt="" coords="1196,87,1376,114"/>
+<area shape="rect" id="node10" href="$max6642_8c.html" title="MAX6642 I2C Temperature Sensor Interface implementation. " alt="" coords="1401,87,1609,114"/>
+<area shape="rect" id="node11" href="$watchdog_8c.html" title="Reset the uC if it fails to reload the watchdog timer. " alt="" coords="1633,87,1789,114"/>
+<area shape="rect" id="node12" href="$afc-bpm_2v3__0_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_0/payload.c" alt="" coords="1814,80,1961,121"/>
+<area shape="rect" id="node13" href="$afc-bpm_2v3__1_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_1/payload.c" alt="" coords="1985,80,2131,121"/>
+<area shape="rect" id="node14" href="$board__led_8c.html" title="port/board/afc&#45;common\l/board_led.c" alt="" coords="2156,80,2331,121"/>
+<area shape="rect" id="node15" href="$afc-timing_2payload_8c.html" title="port/board/afc&#45;timing\l/payload.c" alt="" coords="2355,80,2515,121"/>
+</map>

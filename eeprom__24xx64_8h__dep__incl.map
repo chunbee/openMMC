@@ -1,0 +1,5 @@
+<map id="modules/eeprom_24xx64.h" name="modules/eeprom_24xx64.h">
+<area shape="rect" id="node2" href="$eeprom__24xx64_8c.html" title="24xx64 EEPROM module interface implementation " alt="" coords="5,87,204,114"/>
+<area shape="rect" id="node3" href="$fru_8c.html" title="modules/fru.c" alt="" coords="228,87,339,114"/>
+<area shape="rect" id="node4" href="$board__fru_8c.html" title="port/board/afc&#45;common\l/board_fru.c" alt="" coords="363,80,537,121"/>
+</map>

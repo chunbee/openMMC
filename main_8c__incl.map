@@ -1,0 +1,27 @@
+<map id="modules/main.c" name="modules/main.c">
+<area shape="rect" id="node3" href="$GitSHA1_8h.html" title="GitSHA1.h" alt="" coords="1093,80,1181,107"/>
+<area shape="rect" id="node4" href="$port_8h.html" title="Port layer (includes all portable functions headers) " alt="" coords="985,155,1045,181"/>
+<area shape="rect" id="node26" href="$led_8h.html" title="led.h" alt="" coords="1413,80,1468,107"/>
+<area shape="rect" id="node28" href="$pin__cfg_8h.html" title="pin_cfg.h" alt="" coords="1256,80,1337,107"/>
+<area shape="rect" id="node29" href="$ipmi_8h.html" title="IPMI module definitions. " alt="" coords="1935,80,1997,107"/>
+<area shape="rect" id="node35" href="$i2c_8h.html" title="i2c.h" alt="" coords="1569,80,1622,107"/>
+<area shape="rect" id="node37" href="$fru_8h.html" title="fru.h" alt="" coords="1492,80,1544,107"/>
+<area shape="rect" id="node38" href="$scansta1101_8h.html" title="scansta1101.h" alt="" coords="1259,155,1375,181"/>
+<area shape="rect" id="node39" href="$fpga__spi_8h.html" title="fpga_spi.h" alt="" coords="1700,80,1789,107"/>
+<area shape="rect" id="node41" href="$watchdog_8h.html" title="Watchdog module definitions. " alt="" coords="1813,80,1911,107"/>
+<area shape="rect" id="node42" href="$uart__debug_8h.html" title="UART interface implementation. " alt="" coords="962,80,1069,107"/>
+<area shape="rect" id="node6" href="$lpc17__gpio_8h.html" title="lpc17_gpio.h" alt="" coords="293,229,397,256"/>
+<area shape="rect" id="node8" href="$lpc17__i2c_8h.html" title="I2C driver for LPC17xx. " alt="" coords="1027,229,1121,256"/>
+<area shape="rect" id="node9" href="$lpc17__ssp_8h.html" title="lpc17_ssp.h" alt="" coords="1335,229,1434,256"/>
+<area shape="rect" id="node12" href="$lpc17__spi_8h.html" title="Legacy SPI driver definitions for LPC17xx. " alt="" coords="561,229,656,256"/>
+<area shape="rect" id="node14" href="$lpc17__watchdog_8h.html" title="Definitions of Watchdog driver implementation for LPC17xx. " alt="" coords="681,229,819,256"/>
+<area shape="rect" id="node16" href="$lpc17__interruptions_8h.html" title="Interruptions control. " alt="" coords="844,229,1003,256"/>
+<area shape="rect" id="node18" href="$lpc17__hpm_8h.html" title="Firmware update functions (HPM.1) " alt="" coords="163,229,268,256"/>
+<area shape="rect" id="node19" href="$lpc17__power_8h.html" title="Definitions of power mode selection for LPC17xx. " alt="" coords="1146,229,1261,256"/>
+<area shape="rect" id="node21" href="$lpc17__pincfg_8h.html" title="Pin Config functions redirection for LPC17xx. " alt="" coords="421,229,537,256"/>
+<area shape="rect" id="node23" href="$lpc17__uart_8h.html" title="LPC17xx UART interface definitions. " alt="" coords="36,229,139,256"/>
+<area shape="rect" id="node30" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="1842,229,1909,256"/>
+<area shape="rect" id="node34" href="$sdr_8h.html" title="sdr.h" alt="" coords="1849,155,1902,181"/>
+<area shape="rect" id="node33" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="1944,304,2055,331"/>
+<area shape="rect" id="node40" href="$utils_8h.html" title="General utilities functions. " alt="" coords="1755,155,1817,181"/>
+</map>

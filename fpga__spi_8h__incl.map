@@ -1,0 +1,6 @@
+<map id="modules/fpga_spi.h" name="modules/fpga_spi.h">
+<area shape="rect" id="node2" href="$sdr_8h.html" title="sdr.h" alt="" coords="162,80,215,107"/>
+<area shape="rect" id="node9" href="$utils_8h.html" title="General utilities functions. " alt="" coords="75,155,137,181"/>
+<area shape="rect" id="node3" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="169,155,235,181"/>
+<area shape="rect" id="node8" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="417,229,528,256"/>
+</map>

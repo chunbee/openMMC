@@ -1,0 +1,14 @@
+<map id="modules/printf&#45;stdarg.c" name="modules/printf&#45;stdarg.c">
+<area shape="rect" id="node4" href="$uart__debug_8h.html" title="UART interface implementation. " alt="" coords="629,80,736,107"/>
+<area shape="rect" id="node5" href="$port_8h.html" title="Port layer (includes all portable functions headers) " alt="" coords="1055,155,1115,181"/>
+<area shape="rect" id="node7" href="$lpc17__gpio_8h.html" title="lpc17_gpio.h" alt="" coords="720,229,824,256"/>
+<area shape="rect" id="node9" href="$lpc17__i2c_8h.html" title="I2C driver for LPC17xx. " alt="" coords="849,229,943,256"/>
+<area shape="rect" id="node10" href="$lpc17__ssp_8h.html" title="lpc17_ssp.h" alt="" coords="591,229,689,256"/>
+<area shape="rect" id="node14" href="$lpc17__spi_8h.html" title="Legacy SPI driver definitions for LPC17xx. " alt="" coords="967,229,1062,256"/>
+<area shape="rect" id="node16" href="$lpc17__watchdog_8h.html" title="Definitions of Watchdog driver implementation for LPC17xx. " alt="" coords="1087,229,1225,256"/>
+<area shape="rect" id="node18" href="$lpc17__interruptions_8h.html" title="Interruptions control. " alt="" coords="1250,229,1409,256"/>
+<area shape="rect" id="node20" href="$lpc17__hpm_8h.html" title="Firmware update functions (HPM.1) " alt="" coords="1433,229,1538,256"/>
+<area shape="rect" id="node21" href="$lpc17__power_8h.html" title="Definitions of power mode selection for LPC17xx. " alt="" coords="1563,229,1677,256"/>
+<area shape="rect" id="node23" href="$lpc17__pincfg_8h.html" title="Pin Config functions redirection for LPC17xx. " alt="" coords="1702,229,1818,256"/>
+<area shape="rect" id="node25" href="$lpc17__uart_8h.html" title="LPC17xx UART interface definitions. " alt="" coords="157,229,259,256"/>
+</map>

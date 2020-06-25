@@ -1,0 +1,15 @@
+<map id="modules/at24mac.c" name="modules/at24mac.c">
+<area shape="rect" id="node4" href="$at24mac_8h.html" title="AT24MACX02 EEPROM module interface declarations. " alt="" coords="1295,80,1385,107"/>
+<area shape="rect" id="node5" href="$port_8h.html" title="Port layer (includes all portable functions headers) " alt="" coords="919,80,979,107"/>
+<area shape="rect" id="node26" href="$i2c_8h.html" title="i2c.h" alt="" coords="1788,80,1841,107"/>
+<area shape="rect" id="node7" href="$lpc17__gpio_8h.html" title="lpc17_gpio.h" alt="" coords="1093,155,1197,181"/>
+<area shape="rect" id="node9" href="$lpc17__i2c_8h.html" title="I2C driver for LPC17xx. " alt="" coords="1273,155,1367,181"/>
+<area shape="rect" id="node10" href="$lpc17__ssp_8h.html" title="lpc17_ssp.h" alt="" coords="1392,155,1491,181"/>
+<area shape="rect" id="node13" href="$lpc17__spi_8h.html" title="Legacy SPI driver definitions for LPC17xx. " alt="" coords="1533,155,1627,181"/>
+<area shape="rect" id="node15" href="$lpc17__watchdog_8h.html" title="Definitions of Watchdog driver implementation for LPC17xx. " alt="" coords="17,155,156,181"/>
+<area shape="rect" id="node17" href="$lpc17__interruptions_8h.html" title="Interruptions control. " alt="" coords="231,155,390,181"/>
+<area shape="rect" id="node19" href="$lpc17__hpm_8h.html" title="Firmware update functions (HPM.1) " alt="" coords="554,155,659,181"/>
+<area shape="rect" id="node20" href="$lpc17__power_8h.html" title="Definitions of power mode selection for LPC17xx. " alt="" coords="415,155,529,181"/>
+<area shape="rect" id="node22" href="$lpc17__pincfg_8h.html" title="Pin Config functions redirection for LPC17xx. " alt="" coords="683,155,799,181"/>
+<area shape="rect" id="node24" href="$lpc17__uart_8h.html" title="LPC17xx UART interface definitions. " alt="" coords="966,155,1069,181"/>
+</map>

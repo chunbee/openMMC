@@ -1,0 +1,9 @@
+<map id="port/ucontroller/nxp/lpc17xx/lpc17_hpm.c" name="port/ucontroller/nxp/lpc17xx/lpc17_hpm.c">
+<area shape="rect" id="node3" href="$lpc17__hpm_8h.html" title="Firmware update functions (HPM.1) " alt="" coords="172,95,277,121"/>
+<area shape="rect" id="node5" href="$ipmi_8h.html" title="IPMI module definitions. " alt="" coords="381,95,503,121"/>
+<area shape="rect" id="node13" href="$boot_8h.html" title="boot/boot.h" alt="" coords="527,95,623,121"/>
+<area shape="rect" id="node14" href="$watchdog_8h.html" title="Watchdog module definitions. " alt="" coords="647,95,805,121"/>
+<area shape="rect" id="node6" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="409,244,475,271"/>
+<area shape="rect" id="node12" href="$sdr_8h.html" title="sdr.h" alt="" coords="447,169,501,196"/>
+<area shape="rect" id="node11" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="611,319,721,345"/>
+</map>

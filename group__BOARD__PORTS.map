@@ -1,0 +1,5 @@
+<map id="Board Ports" name="Board Ports">
+<area shape="rect" id="node1" href="$group__AFC__TIMING.html" title="AFC Timing Board Port" alt="" coords="151,5,319,32"/>
+<area shape="rect" id="node3" href="$group__AFC__V3__0.html" title="AFCv3.0 Board Port" alt="" coords="161,56,308,83"/>
+<area shape="rect" id="node4" href="$group__AFC__V3__1.html" title="AFCv3.1 Board Port" alt="" coords="161,107,308,133"/>
+</map>

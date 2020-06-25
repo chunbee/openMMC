@@ -1,0 +1,51 @@
+<map id="port/board/afc&#45;timing/pin_mapping.h" name="port/board/afc&#45;timing/pin_mapping.h">
+<area shape="rect" id="node2" href="$flash__spi_8c.html" title="modules/flash_spi.c" alt="" coords="5,191,156,218"/>
+<area shape="rect" id="node3" href="$scansta1101_8h.html" title="modules/scansta1101.h" alt="" coords="230,102,406,129"/>
+<area shape="rect" id="node6" href="$rtm__user_8c.html" title="port/board/rtm&#45;8sfp\l/rtm_user.c" alt="" coords="706,273,855,315"/>
+<area shape="rect" id="node7" href="$port_8h.html" title="Port layer (includes all portable functions headers) " alt="" coords="2533,95,2684,136"/>
+<area shape="rect" id="node48" href="$lpc17__spi_8c.html" title="Legacy SPI driver for LPC17xx. " alt="" coords="5797,184,5951,225"/>
+<area shape="rect" id="node49" href="$lpc17__ssp_8c.html" title="SSP driver for LPC17xx. " alt="" coords="5975,184,6131,225"/>
+<area shape="rect" id="node4" href="$main_8c.html" title="modules/main.c" alt="" coords="1716,281,1843,307"/>
+<area shape="rect" id="node5" href="$scansta1101_8c.html" title="modules/scansta1101.c" alt="" coords="180,191,355,218"/>
+<area shape="rect" id="node8" href="$ad84xx_8c.html" title="modules/ad84xx.c" alt="" coords="1643,191,1785,218"/>
+<area shape="rect" id="node9" href="$adn4604_8c.html" title="ADN4604 module interface implementations. " alt="" coords="1809,191,1958,218"/>
+<area shape="rect" id="node10" href="$amc__fru_8c.html" title="modules/amc_fru.c" alt="" coords="2433,281,2579,307"/>
+<area shape="rect" id="node11" href="$uart__debug_8h.html" title="UART interface implementation. " alt="" coords="2860,191,3027,218"/>
+<area shape="rect" id="node12" href="$fru_8c.html" title="modules/fru.c" alt="" coords="2941,281,3052,307"/>
+<area shape="rect" id="node13" href="$ipmi_8c.html" title="IPMI module implementation. " alt="" coords="1867,281,1990,307"/>
+<area shape="rect" id="node14" href="$rtm_8c.html" title="modules/rtm.c" alt="" coords="1051,281,1167,307"/>
+<area shape="rect" id="node15" href="$hotswap_8c.html" title="Hotswap sensors implementation. " alt="" coords="1338,281,1541,307"/>
+<area shape="rect" id="node16" href="$lm75_8c.html" title="Interface functions for LM75 I2C Temperature Sensor. " alt="" coords="3196,281,3376,307"/>
+<area shape="rect" id="node17" href="$max6642_8c.html" title="MAX6642 I2C Temperature Sensor Interface implementation. " alt="" coords="4250,281,4458,307"/>
+<area shape="rect" id="node18" href="$uart__debug_8c.html" title="UART interface implementation. " alt="" coords="4908,281,5075,307"/>
+<area shape="rect" id="node19" href="$watchdog_8c.html" title="Reset the uC if it fails to reload the watchdog timer. " alt="" coords="5311,281,5467,307"/>
+<area shape="rect" id="node20" href="$at24mac_8c.html" title="AT24MACX02 EEPROM module interface implementation. " alt="" coords="1983,191,2133,218"/>
+<area shape="rect" id="node21" href="$eeprom__24xx64_8c.html" title="24xx64 EEPROM module interface implementation " alt="" coords="2157,191,2356,218"/>
+<area shape="rect" id="node22" href="$fpga__spi_8c.html" title="modules/fpga_spi.c" alt="" coords="2380,191,2528,218"/>
+<area shape="rect" id="node23" href="$led_8h.html" title="modules/led.h" alt="" coords="934,191,1049,218"/>
+<area shape="rect" id="node24" href="$hpm_8c.html" title="modules/hpm.c" alt="" coords="1191,281,1314,307"/>
+<area shape="rect" id="node25" href="$ipmb_8c.html" title="modules/ipmb.c" alt="" coords="1565,281,1692,307"/>
+<area shape="rect" id="node26" href="$led_8c.html" title="modules/led.c" alt="" coords="568,281,681,307"/>
+<area shape="rect" id="node27" href="$afc-bpm_2v3__0_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_0/payload.c" alt="" coords="879,273,1026,315"/>
+<area shape="rect" id="node28" href="$afc-bpm_2v3__1_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_1/payload.c" alt="" coords="198,273,345,315"/>
+<area shape="rect" id="node29" href="$board__led_8c.html" title="port/board/afc&#45;common\l/board_led.c" alt="" coords="369,273,544,315"/>
+<area shape="rect" id="node30" href="$afc-timing_2payload_8c.html" title="port/board/afc&#45;timing\l/payload.c" alt="" coords="14,273,174,315"/>
+<area shape="rect" id="node31" href="$i2c_8c.html" title="modules/i2c.c" alt="" coords="2553,191,2665,218"/>
+<area shape="rect" id="node32" href="$pin__cfg_8h.html" title="modules/pin_cfg.h" alt="" coords="1377,191,1518,218"/>
+<area shape="rect" id="node33" href="$pca9554_8c.html" title="PCA9554 module interface functions implementations. " alt="" coords="2688,191,2836,218"/>
+<area shape="rect" id="node34" href="$ina220_8c.html" title="INA220 interface implementation. " alt="" coords="5597,281,5788,307"/>
+<area shape="rect" id="node35" href="$ina220_8h.html" title="Definitions for INA220 Current/Voltage/Power Sensor. " alt="" coords="5530,191,5722,218"/>
+<area shape="rect" id="node36" href="$afc-bpm_2v3__0_2i2c__mapping_8c.html" title="port/board/afc&#45;bpm\l/v3_0/i2c_mapping.c" alt="" coords="3102,184,3257,225"/>
+<area shape="rect" id="node37" href="$afc-bpm_2v3__0_2ipmi__oem_8c.html" title="port/board/afc&#45;bpm\l/v3_0/ipmi_oem.c" alt="" coords="3281,184,3427,225"/>
+<area shape="rect" id="node38" href="$afc-bpm_2v3__1_2i2c__mapping_8c.html" title="port/board/afc&#45;bpm\l/v3_1/i2c_mapping.c" alt="" coords="3451,184,3606,225"/>
+<area shape="rect" id="node39" href="$afc-bpm_2v3__1_2ipmi__oem_8c.html" title="port/board/afc&#45;bpm\l/v3_1/ipmi_oem.c" alt="" coords="3630,184,3777,225"/>
+<area shape="rect" id="node40" href="$board__fru_8c.html" title="port/board/afc&#45;common\l/board_fru.c" alt="" coords="3801,184,3976,225"/>
+<area shape="rect" id="node41" href="$board__ipmb_8c.html" title="port/board/afc&#45;common\l/board_ipmb.c" alt="" coords="4000,184,4175,225"/>
+<area shape="rect" id="node42" href="$board__led_8h.html" title="port/board/afc&#45;common\l/board_led.h" alt="" coords="633,184,808,225"/>
+<area shape="rect" id="node43" href="$afc-timing_2i2c__mapping_8c.html" title="port/board/afc&#45;timing\l/i2c_mapping.c" alt="" coords="4199,184,4359,225"/>
+<area shape="rect" id="node44" href="$afc-timing_2ipmi__oem_8c.html" title="port/board/afc&#45;timing\l/ipmi_oem.c" alt="" coords="4383,184,4543,225"/>
+<area shape="rect" id="node45" href="$lpc17__i2c_8c.html" title="I2C driver for LPC17xx. " alt="" coords="4568,184,4721,225"/>
+<area shape="rect" id="node46" href="$lpc17__pincfg_8h.html" title="Pin Config functions redirection for LPC17xx. " alt="" coords="4745,184,4920,225"/>
+<area shape="rect" id="node47" href="$lpc17__pincfg_8c.html" title="Pin Config functions redirection for LPC17xx. " alt="" coords="4944,184,5119,225"/>
+<area shape="rect" id="node50" href="$lpc17__uart_8c.html" title="port/ucontroller/nxp\l/lpc17xx/lpc17_uart.c" alt="" coords="5143,184,5303,225"/>
+</map>

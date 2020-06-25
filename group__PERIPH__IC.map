@@ -1,0 +1,7 @@
+<map id="Peripheral ICs" name="Peripheral ICs">
+<area shape="rect" id="node1" href="$group__xx64.html" title="24xx64 64kbit Serial\l EEPROM" alt="" coords="181,5,337,47"/>
+<area shape="rect" id="node2" href="$group__AT24MAC.html" title="AT24MACx02 2kbit Serial\l EEPROM" alt="" coords="166,71,351,112"/>
+<area shape="rect" id="node3" href="$group__SENSORS.html" title="Sensors" alt="" coords="222,137,295,163"/>
+<area shape="rect" id="node4" href="$group__PCA9554.html" title="PCA9554 8&#45;bit I2C/SMBus\l I/O Expander Module" alt="" coords="165,188,352,229"/>
+<area shape="rect" id="node5" href="$group__ADN4604.html" title="ADN4604 16x16 Digital\l Crosspoint Switch" alt="" coords="171,253,346,295"/>
+</map>

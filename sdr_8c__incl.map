@@ -1,0 +1,9 @@
+<map id="modules/sdr.c" name="modules/sdr.c">
+<area shape="rect" id="node5" href="$sdr_8h.html" title="sdr.h" alt="" coords="215,155,269,181"/>
+<area shape="rect" id="node9" href="$sensors_8h.html" title="Shortcut to include all sensors headers (not mandatory, user can include each sensor separately) ..." alt="" coords="467,80,551,107"/>
+<area shape="rect" id="node10" href="$ipmi_8h.html" title="IPMI module definitions. " alt="" coords="277,80,340,107"/>
+<area shape="rect" id="node11" href="$fpga__spi_8h.html" title="fpga_spi.h" alt="" coords="112,80,201,107"/>
+<area shape="rect" id="node6" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="263,229,330,256"/>
+<area shape="rect" id="node8" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="124,304,235,331"/>
+<area shape="rect" id="node12" href="$utils_8h.html" title="General utilities functions. " alt="" coords="116,229,179,256"/>
+</map>

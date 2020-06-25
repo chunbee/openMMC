@@ -1,0 +1,7 @@
+<map id="port/board/rtm&#45;8sfp/rtm_user_fru.h" name="port/board/rtm&#45;8sfp/rtm_user_fru.h">
+<area shape="rect" id="node2" href="$fru__editor_8h.html" title="fru_editor.h" alt="" coords="78,95,174,121"/>
+<area shape="rect" id="node5" href="$ipmi_8h.html" title="IPMI module definitions. " alt="" coords="185,169,248,196"/>
+<area shape="rect" id="node6" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="215,319,282,345"/>
+<area shape="rect" id="node11" href="$sdr_8h.html" title="sdr.h" alt="" coords="238,244,291,271"/>
+<area shape="rect" id="node10" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="417,393,528,420"/>
+</map>

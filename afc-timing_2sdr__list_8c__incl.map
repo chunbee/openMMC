@@ -1,0 +1,10 @@
+<map id="port/board/afc&#45;timing/sdr_list.c" name="port/board/afc&#45;timing/sdr_list.c">
+<area shape="rect" id="node2" href="$sdr_8h.html" title="sdr.h" alt="" coords="275,169,329,196"/>
+<area shape="rect" id="node9" href="$utils_8h.html" title="General utilities functions. " alt="" coords="436,169,499,196"/>
+<area shape="rect" id="node10" href="$afc-timing_2i2c__mapping_8h.html" title="i2c_mapping.h" alt="" coords="505,95,622,121"/>
+<area shape="rect" id="node14" href="$sensors_8h.html" title="Shortcut to include all sensors headers (not mandatory, user can include each sensor separately) ..." alt="" coords="647,95,731,121"/>
+<area shape="rect" id="node15" href="$fpga__spi_8h.html" title="fpga_spi.h" alt="" coords="340,95,429,121"/>
+<area shape="rect" id="node3" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="243,244,310,271"/>
+<area shape="rect" id="node8" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="5,319,116,345"/>
+<area shape="rect" id="node11" href="$i2c_8h.html" title="i2c.h" alt="" coords="537,244,590,271"/>
+</map>

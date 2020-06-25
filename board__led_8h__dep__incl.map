@@ -1,0 +1,10 @@
+<map id="port/board/afc&#45;common/board_led.h" name="port/board/afc&#45;common/board_led.h">
+<area shape="rect" id="node2" href="$led_8c.html" title="modules/led.c" alt="" coords="5,102,119,129"/>
+<area shape="rect" id="node3" href="$rtm_8c.html" title="modules/rtm.c" alt="" coords="143,102,259,129"/>
+<area shape="rect" id="node4" href="$hotswap_8c.html" title="Hotswap sensors implementation. " alt="" coords="283,102,486,129"/>
+<area shape="rect" id="node5" href="$afc-bpm_2v3__0_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_0/payload.c" alt="" coords="510,95,657,136"/>
+<area shape="rect" id="node6" href="$afc-bpm_2v3__1_2payload_8c.html" title="port/board/afc&#45;bpm\l/v3_1/payload.c" alt="" coords="681,95,827,136"/>
+<area shape="rect" id="node7" href="$board__led_8c.html" title="port/board/afc&#45;common\l/board_led.c" alt="" coords="852,95,1027,136"/>
+<area shape="rect" id="node8" href="$afc-timing_2payload_8c.html" title="port/board/afc&#45;timing\l/payload.c" alt="" coords="1051,95,1211,136"/>
+<area shape="rect" id="node9" href="$rtm__user_8c.html" title="port/board/rtm&#45;8sfp\l/rtm_user.c" alt="" coords="1235,95,1385,136"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="port/board/afc&#45;common/board_fru.c" name="port/board/afc&#45;common/board_fru.c">
+<area shape="rect" id="node2" href="$port_8h.html" title="Port layer (includes all portable functions headers) " alt="" coords="815,95,875,121"/>
+<area shape="rect" id="node25" href="$fru_8h.html" title="fru.h" alt="" coords="1671,95,1723,121"/>
+<area shape="rect" id="node28" href="$fru__editor_8h.html" title="fru_editor.h" alt="" coords="1747,95,1843,121"/>
+<area shape="rect" id="node35" href="$at24mac_8h.html" title="AT24MACX02 EEPROM module interface declarations. " alt="" coords="1867,95,1958,121"/>
+<area shape="rect" id="node36" href="$eeprom__24xx64_8h.html" title="24xx64 EEPROM module interface declarations " alt="" coords="1982,95,2121,121"/>
+<area shape="rect" id="node4" href="$lpc17__gpio_8h.html" title="lpc17_gpio.h" alt="" coords="149,169,253,196"/>
+<area shape="rect" id="node6" href="$lpc17__i2c_8h.html" title="I2C driver for LPC17xx. " alt="" coords="451,169,545,196"/>
+<area shape="rect" id="node7" href="$lpc17__ssp_8h.html" title="lpc17_ssp.h" alt="" coords="327,169,426,196"/>
+<area shape="rect" id="node11" href="$lpc17__spi_8h.html" title="Legacy SPI driver definitions for LPC17xx. " alt="" coords="569,169,664,196"/>
+<area shape="rect" id="node13" href="$lpc17__watchdog_8h.html" title="Definitions of Watchdog driver implementation for LPC17xx. " alt="" coords="689,169,827,196"/>
+<area shape="rect" id="node15" href="$lpc17__interruptions_8h.html" title="Interruptions control. " alt="" coords="852,169,1011,196"/>
+<area shape="rect" id="node17" href="$lpc17__hpm_8h.html" title="Firmware update functions (HPM.1) " alt="" coords="1161,169,1267,196"/>
+<area shape="rect" id="node18" href="$lpc17__power_8h.html" title="Definitions of power mode selection for LPC17xx. " alt="" coords="1431,169,1546,196"/>
+<area shape="rect" id="node20" href="$lpc17__pincfg_8h.html" title="Pin Config functions redirection for LPC17xx. " alt="" coords="1291,169,1407,196"/>
+<area shape="rect" id="node22" href="$lpc17__uart_8h.html" title="LPC17xx UART interface definitions. " alt="" coords="1035,169,1137,196"/>
+<area shape="rect" id="node29" href="$ipmi_8h.html" title="IPMI module definitions. " alt="" coords="1875,169,1937,196"/>
+<area shape="rect" id="node30" href="$ipmb_8h.html" title="Definitions used in IPMB Layer. " alt="" coords="1874,319,1941,345"/>
+<area shape="rect" id="node34" href="$sdr_8h.html" title="sdr.h" alt="" coords="1934,244,1987,271"/>
+<area shape="rect" id="node33" href="$board__ipmb_8h.html" title="Board specific definitions used in IPMB Layer. " alt="" coords="1793,393,1904,420"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="amc_clock_config_record" name="amc_clock_config_record">
+<area shape="rect" id="node2" href="$structclock__config__descriptor.html" title="clock_config_descriptor" alt="" coords="5,102,180,129"/>
+<area shape="rect" id="node3" href="$structdirect__clock__descriptor.html" title="direct_clock_descriptor" alt="" coords="7,5,179,32"/>
+<area shape="rect" id="node4" href="$structfru__multirecord__area__header.html" title="fru_multirecord_area\l_header" alt="" coords="204,95,363,136"/>
+</map>
